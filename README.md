@@ -21,10 +21,10 @@ The `Multimodal_O2_model` notebook covers the following steps:
 ## Requirements
 
 To run the notebook, you'll need:
-- Python 3.x
+- Python 3.10
 - Jupyter Notebook
 - Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
-- PyTorch
+- PyTorch 1.12.1
 
 ## Usage
 

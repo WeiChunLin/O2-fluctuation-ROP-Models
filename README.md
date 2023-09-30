@@ -28,7 +28,7 @@ To run the notebook, you'll need:
 
 ## Usage
 
-1. Clone this repository.
+1. Clone this repository or download the files.
 2. Install the required libraries.
 3. Open and run the notebook.
 

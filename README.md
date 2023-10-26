@@ -1,6 +1,6 @@
 # O2-fluctuation-ROP-Models
 
-This repository contains a Jupyter notebook that focuses on the development and evaluation of ML and deep learning models for severe ROP prediction. 
+This work has been published in the journal `Ophthalmology Science` [Oxygenation Fluctuations Associated with Severe Retinopathy of Prematurity: Insights from A Multimodal Deep Learning Approach](https://www.ophthalmologyscience.org/article/S2666-9145(23)00149-5/fulltext). This repository contains a Jupyter notebook that focuses on the development and evaluation of ML and deep learning models for severe ROP prediction.
 
 ## Overview
 
